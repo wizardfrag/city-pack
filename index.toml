@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "0956a54f039e1fc626e95041b71585e6c85763c63db1d103ee01e63f7a44c135"
+
+[[files]]
+file = "README.md"
+hash = "a6da333163536306823772493ed324eb7bb122a42fc9ff4a9dea72ee99cf0467"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "8c9265f70a829f15771c748f6a89fef07ef8d89677c78a51d61c977ea8f856e7"
 metafile = true
