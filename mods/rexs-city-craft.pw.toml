@@ -1,0 +1,13 @@
+name = "City Craft"
+filename = "CityCraft-1.20.x-(v.1.7.0).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/94iqI5Ec/versions/GBATdX2d/CityCraft-1.20.x-%28v.1.7.0%29.jar"
+hash-format = "sha1"
+hash = "a8f582e1df43d17d5cf4fb4faf4b5b3d7b08c513"
+
+[update]
+[update.modrinth]
+mod-id = "94iqI5Ec"
+version = "GBATdX2d"

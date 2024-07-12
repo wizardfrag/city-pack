@@ -1,0 +1,13 @@
+name = "Create: Stuff & Crafts"
+filename = "createstuff-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AHp0xeye/versions/29jN7etn/createstuff-1.0.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "08ac2659508f37efe0b6626d5e8bc96ddc331ecd"
+
+[update]
+[update.modrinth]
+mod-id = "AHp0xeye"
+version = "29jN7etn"

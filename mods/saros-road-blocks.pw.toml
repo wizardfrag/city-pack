@@ -1,0 +1,13 @@
+name = "Saro´s Road Blocks"
+filename = "Saros-Road-Blocks-Mod-1.20.1-2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NnMIY8We/versions/Nyomv9D7/Saros-Road-Blocks-Mod-1.20.1-2.6.jar"
+hash-format = "sha1"
+hash = "d2e13dbb8aa615b30e6822889e46eadf9bc488fb"
+
+[update]
+[update.modrinth]
+mod-id = "NnMIY8We"
+version = "Nyomv9D7"

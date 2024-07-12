@@ -1,0 +1,13 @@
+name = "Saro´s Construction"
+filename = "Saros-Construction-Mod-1.20.1-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dNjq5Zok/versions/HFV3qqmY/Saros-Construction-Mod-1.20.1-1.5.jar"
+hash-format = "sha1"
+hash = "91b6d25f412c0d3d534def896b7d9b41242b289c"
+
+[update]
+[update.modrinth]
+mod-id = "dNjq5Zok"
+version = "HFV3qqmY"

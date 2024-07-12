@@ -1,0 +1,13 @@
+name = "City Pack"
+author = "Wizardfrag"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f2266dc5243451b5cc98fdb04e83e3aa6fe0a4b500569cd4ae2188f1e618d2ce"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
